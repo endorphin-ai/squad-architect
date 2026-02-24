@@ -2,8 +2,6 @@
 
 **by [Endorphin AI](https://endorphinai.dev/)**
 
-![Squad Architect](img/architect.png)
-
 Design and build multi-agent squads for [Claude Code](https://docs.anthropic.com/en/docs/claude-code). A compiled CLI tool that orchestrates AI agent teams — from squad design through build, audit, and adjustment.
 
 ## Install
@@ -20,12 +18,12 @@ curl -fsSL https://raw.githubusercontent.com/endorphin-ai/squad-architect/main/i
 
 Download the binary for your platform from [GitHub Releases](https://github.com/endorphin-ai/squad-architect/releases):
 
-| Platform | Architecture                | Download                                |
-| -------- | --------------------------- | --------------------------------------- |
-| macOS    | Apple Silicon (M1/M2/M3/M4) | `squad-architect_*_darwin_arm64.tar.gz` |
-| macOS    | Intel                       | `squad-architect_*_darwin_amd64.tar.gz` |
-| Linux    | x86_64                      | `squad-architect_*_linux_amd64.tar.gz`  |
-| Linux    | ARM64                       | `squad-architect_*_linux_arm64.tar.gz`  |
+| Platform | Architecture | Download |
+|---|---|---|
+| macOS | Apple Silicon (M1/M2/M3/M4) | `squad-architect_*_darwin_arm64.tar.gz` |
+| macOS | Intel | `squad-architect_*_darwin_amd64.tar.gz` |
+| Linux | x86_64 | `squad-architect_*_linux_amd64.tar.gz` |
+| Linux | ARM64 | `squad-architect_*_linux_arm64.tar.gz` |
 
 Extract and move to your PATH:
 
