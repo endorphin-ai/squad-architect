@@ -14,6 +14,8 @@ Design and build multi-agent squads for [Claude Code](https://docs.anthropic.com
 curl -fsSL https://raw.githubusercontent.com/endorphin-ai/squad-architect/main/install.sh | bash
 ```
 
+![Architect](img/screenshot.png)
+
 ### Manual download
 
 Download the binary for your platform from [GitHub Releases](https://github.com/endorphin-ai/squad-architect/releases):
