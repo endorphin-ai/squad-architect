@@ -64,13 +64,13 @@ squad-architect build --dir="/path_to_project/" --code=BETA_TESTER
 
 #Advanced features require code ($)
 
-# Audit an existing squad
+# Audit an existing squad ($)
 squad-architect audit --dir="/path_to_project/" --code=<YOUR_CODE>
 
-# Modify a squad
+# Modify a squad ($)
 squad-architect adjust "your instruction" --dir="/path_to_project/" --code=<YOUR_CODE>
 
-# Generate insight reports
+# Generate insight reports ($)
 squad-architect insight health --dir="/path_to_project/" --code=<YOUR_CODE>
 ```
 Team examples built with Architect.
