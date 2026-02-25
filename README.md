@@ -55,7 +55,7 @@ All commands require an access code provided by Endorphin AI.
 
 ```bash
 # Interactive squad design session
-squad-architect design --code=BETA_TESTER
+squad-architect design --dir="/path_to_project/" --code=BETA_TESTER 
 > Build squad for MEAN web app
 > Approve / add agent / remove agent / add commands / add skill / describe changes
 
