@@ -60,18 +60,18 @@ squad-architect design --dir="/path_to_project/" --code=BETA_TESTER
 > Approve / add agent / remove agent / add commands / add skill / describe changes
 
 # Build squad from approved design
-squad-architect build --code=BETA_TESTER
+squad-architect build --dir="/path_to_project/" --code=BETA_TESTER
 
 #Advanced features require code ($)
 
 # Audit an existing squad
-squad-architect audit --code=<YOUR_CODE>
+squad-architect audit --dir="/path_to_project/" --code=<YOUR_CODE>
 
 # Modify a squad
-squad-architect adjust "your instruction" --code=<YOUR_CODE>
+squad-architect adjust "your instruction" --dir="/path_to_project/" --code=<YOUR_CODE>
 
 # Generate insight reports
-squad-architect insight health --code=<YOUR_CODE>
+squad-architect insight health --dir="/path_to_project/" --code=<YOUR_CODE>
 ```
 Team examples built with Architect.
 🍕 One Pizza Team
