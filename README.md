@@ -62,6 +62,13 @@ squad-architect design --dir="/path_to_project/" --code=BETA_TESTER
 # Build squad from approved design
 squad-architect build --dir="/path_to_project/" --code=BETA_TESTER
 
+Next
+1. Open Claude Code in this project directory                               
+2. Run /el-capitan "your request" to execute the full pipeline
+
+Simalation         
+Run /el-capitan --dry-run "your request" to preview without file writes
+
 #Advanced features require code ($)
 
 # Audit an existing squad ($)
