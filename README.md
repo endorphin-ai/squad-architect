@@ -2,6 +2,8 @@
 
 **by [Endorphin AI](https://endorphinai.dev/)**
 
+[architect.png]
+
 Design and build multi-agent squads for [Claude Code](https://docs.anthropic.com/en/docs/claude-code). A compiled CLI tool that orchestrates AI agent teams — from squad design through build, audit, and adjustment.
 
 ## Install
