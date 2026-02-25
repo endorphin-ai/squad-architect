@@ -73,6 +73,10 @@ squad-architect adjust "your instruction" --code=<YOUR_CODE>
 # Generate insight reports
 squad-architect insight health --code=<YOUR_CODE>
 ```
+Team examples built with Architect.
+🍕 One Pizza Team
+https://github.com/endorphin-ai/claude-code-teams
+
 
 ## Requirements
 
