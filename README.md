@@ -56,12 +56,11 @@ All commands require an access code provided by Endorphin AI.
 ```bash
 # Interactive squad design session
 squad-architect design --code=<YOUR_CODE>
+> Build squad for MEAN web app
+> Approve / add agent / remove agent / add commands / add skill / describe changes
 
 # Build squad from approved design
 squad-architect build --code=<YOUR_CODE>
-
-# Design + build in one step
-squad-architect run --code=<YOUR_CODE>
 
 # Audit an existing squad
 squad-architect audit --code=<YOUR_CODE>
