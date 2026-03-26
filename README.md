@@ -51,6 +51,8 @@ squad-architect version --code=<YOUR_CODE>
 
 ## Usage
 
+TUTORIAL https://andrewnovykov.github.io/tutorials/squad-architect/
+
 All commands require an access code provided by Endorphin AI.
 
 ```bash
